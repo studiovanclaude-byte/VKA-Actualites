@@ -1,6 +1,17 @@
 {
   "source": "discord",
   "schema": 1,
-  "generatedAt": "2026-11-17T22:50:43.588Z",
-  "items": []
+  "generatedAt": "2026-11-17T22:57:46.774Z",
+  "items": [
+    {
+      "id": "1572385176384970813",
+      "category": "Annonce",
+      "title": "**Bienvenue sur les actualités VKA !**",
+      "excerpt": "**Bienvenue sur les actualités VKA !**\n\nLe développement de VKA Luncher avance !\n\nDésormais, les annonces de notre Discord pourront être diffusées automatiquement dans le launcher Minecraft VKA.",
+      "date": "17/11/2026",
+      "publishedAt": "2026-11-17T22:57:19.554Z",
+      "emoji": "📣",
+      "url": "https://discord.com/channels/1560964675615719474/1560966102215950356/1572385176384970813"
+    }
+  ]
 }
